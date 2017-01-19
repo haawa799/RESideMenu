@@ -1,0 +1,6 @@
+framework module RESideMenuKit {
+  umbrella header "RESideMenuKit.h"
+
+  export *
+  module * { export * }
+}
